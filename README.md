@@ -4,8 +4,8 @@ An end-to-end data analysis project on the classic "Sample Superstore" retail
 dataset: data cleaning, quality checks, exploratory analysis, and an
 interactive HTML dashboard — no server or paid BI tool required.
 
-**Live demo (after enabling GitHub Pages — see below):**
-`https://<your-username>.github.io/<repo-name>/`
+**Live demo (GitHub Pages — see below):**
+(https://byte-forger.github.io/sales_store_analysis/)
 
 ## What's in this repo
 
@@ -28,25 +28,6 @@ interactive HTML dashboard — no server or paid BI tool required.
 ├── LICENSE
 └── .gitignore
 ```
-
-## View it live (GitHub Pages)
-
-This repo is set up so anyone visiting it can see the actual working
-dashboard in their browser — not raw HTML source. To turn that on:
-
-1. Push this repo to GitHub (see the parent conversation / your terminal for the git commands).
-2. On GitHub, go to **Settings → Pages**.
-3. Under **Build and deployment → Source**, choose **Deploy from a branch**.
-4. Under **Branch**, select `main` and folder **`/docs`**, then **Save**.
-5. Wait 1–2 minutes, then visit `https://<your-username>.github.io/<repo-name>/`.
-
-That URL will show the landing page, which links to the live dashboard and
-the data explorer. Add that link to your GitHub repo's "About" section so
-visitors see it immediately.
-
-> Before pushing, open `docs/index.html` and replace `YOUR-USERNAME/YOUR-REPO`
-> in the two documentation links near the bottom with your actual GitHub
-> username and repo name.
 
 ## Quick start (local viewing)
 
