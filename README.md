@@ -45,7 +45,7 @@ python notebooks/cleaning_and_analysis.py
 
 ## Data source
 
-[Sample - Superstore](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
+[Sample - Superstore]([https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
 is a widely used sample retail dataset (orders, customers, products, sales,
 profit) commonly used for BI/analytics practice. **Note:** in this particular
 copy of the file, `Order Date` increments by exactly one day per row from
